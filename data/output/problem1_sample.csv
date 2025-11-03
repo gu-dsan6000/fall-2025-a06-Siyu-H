@@ -1,0 +1,11 @@
+log_entry,log_level
+17/03/29 10:03:16 INFO executor.Executor: Running task 3.0 in stage 1.0 (TID 4),INFO
+"17/03/29 10:07:36 INFO spark.SecurityManager: Changing view acls to: yarn,curi",INFO
+17/03/29 10:04:44 INFO ExecutorRunnable: Setting up ContainerLaunchContext,INFO
+"17/03/29 10:04:57 INFO spark.MapOutputTrackerWorker: Don't have map outputs for shuffle 0, fetching them",INFO
+17/03/29 10:11:36 INFO executor.CoarseGrainedExecutorBackend: Driver commanded a shutdown,INFO
+17/03/29 10:07:24 INFO storage.BlockManagerMaster: Registered BlockManager,INFO
+"17/03/29 10:11:10 INFO spark.CacheManager: Partition rdd_2_5 not found, computing it",INFO
+17/03/29 10:04:59 INFO executor.Executor: Running task 16.0 in stage 5.0 (TID 84),INFO
+17/03/29 10:05:01 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 121,INFO
+17/03/29 10:07:32 INFO storage.BlockManagerMaster: Registered BlockManager,INFO
